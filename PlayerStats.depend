@@ -160,3 +160,80 @@
 1752428413 source:c:\users\silvia\documents\c\playerstats\src\utiles.c
 	"utiles.h"
 
+1753990012 source:c:\users\silvia\desktop\git-playerstats\player-stats\src\archivoscarga.c
+	"ArchivosCarga.h"
+
+1753990012 c:\users\silvia\desktop\git-playerstats\player-stats\include\archivoscarga.h
+	"FILAS.h"
+	"utiles.h"
+
+1753990012 c:\users\silvia\desktop\git-playerstats\player-stats\include\filas.h
+	"ListaSimple.h"
+
+1753990012 c:\users\silvia\desktop\git-playerstats\player-stats\include\listasimple.h
+	"utiles.h"
+	"Jugador.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1753990012 c:\users\silvia\desktop\git-playerstats\player-stats\include\utiles.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+
+1753990012 c:\users\silvia\desktop\git-playerstats\player-stats\include\jugador.h
+
+1753990012 source:c:\users\silvia\desktop\git-playerstats\player-stats\src\cargadedatos.c
+	"CargaDeDatos.h"
+
+1753990012 c:\users\silvia\desktop\git-playerstats\player-stats\include\cargadedatos.h
+	"FILAS.h"
+	"IngresoDatos.h"
+	"MostrarDatos.h"
+
+1753990012 c:\users\silvia\desktop\git-playerstats\player-stats\include\ingresodatos.h
+	"ListaSimple.h"
+
+1753990012 c:\users\silvia\desktop\git-playerstats\player-stats\include\mostrardatos.h
+	"ListaSimple.h"
+	"FILAS.h"
+
+1753990012 source:c:\users\silvia\desktop\git-playerstats\player-stats\src\filas.c
+	"FILAS.h"
+
+1753990012 source:c:\users\silvia\desktop\git-playerstats\player-stats\src\ingresodatos.c
+	"IngresoDatos.h"
+
+1753990012 source:c:\users\silvia\desktop\git-playerstats\player-stats\src\inicprogram.c
+	"InicProgram.h"
+
+1753990012 c:\users\silvia\desktop\git-playerstats\player-stats\include\inicprogram.h
+	"CargaDeDatos.h"
+	"ArchivosCarga.h"
+	"menu&Functions.h"
+
+1753990012 c:\users\silvia\desktop\git-playerstats\player-stats\include\menu&functions.h
+	"MostrarDatos.h"
+
+1753990012 source:c:\users\silvia\desktop\git-playerstats\player-stats\src\jugador.c
+	"Jugador.h"
+
+1753990012 source:c:\users\silvia\desktop\git-playerstats\player-stats\src\listasimple.c
+	"ListaSimple.h"
+
+1753990012 source:c:\users\silvia\desktop\git-playerstats\player-stats\src\main.c
+	"InicProgram.h"
+
+1753990012 source:c:\users\silvia\desktop\git-playerstats\player-stats\src\menu&functions.c
+	"menu&Functions.h"
+
+1753990012 source:c:\users\silvia\desktop\git-playerstats\player-stats\src\mostrardatos.c
+	"MostrarDatos.h"
+
+1753990012 source:c:\users\silvia\desktop\git-playerstats\player-stats\src\utiles.c
+	"utiles.h"
+
