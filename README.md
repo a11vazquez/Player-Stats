@@ -1,10 +1,17 @@
 # Player-Stats
 
-Sistema de gestión de jugadores de fútbol y sus estadísticas detalladas, desarrollado en lenguaje C con enfoque en manejo de memoria dinámica, estructuras compuestas, listas enlazadas y archivos binarios para persistencia.
+.Trabajo final Catedra Programacion 1 y, 2 UTN MDP.
+
+Sistema de gestión de jugadores de fútbol y, sus estadísticas detalladas.
+Desarrollado en lenguaje C con enfoque en manejo de memoria dinámica, estructuras compuestas, listas enlazadas y archivos binarios para persistencia.
 
 ---
 
 ## Descripción
+
+.ABML echo en lenguaje C como proyecto final de la catedra programacion 1 y, 2 UTN MDP
+
+- IDE usada CodeBlocks.
 
 Player-Stats es una aplicación en C que permite gestionar jugadores de fútbol, almacenar sus datos personales y registrar estadísticas detalladas de partidos. Utiliza memoria dinámica y estructuras avanzadas como listas enlazadas para manejar datos variables, con persistencia en archivos binarios para conservar la información entre ejecuciones.
 
@@ -26,51 +33,11 @@ Player-Stats/
 │
 ├── src/ # Código fuente (.c)
 ├── include/ # Archivos de cabecera (.h)
-├── bin/ # Ejecutables (ignorado por Git)
-├── obj/ # Archivos objeto (ignorado por Git)
-├── .gitignore # Archivos y carpetas ignorados por Git
-├── LICENSE # Licencia del proyecto
-└── README.md # Documentación principal
-
-yaml
-Copiar
-Editar
-
 ---
 
-## Requisitos Previos
+### Links
 
-- GCC o compilador compatible con C.  
-- Terminal o entorno de desarrollo (ej. Code::Blocks).  
-- Git para control de versiones.
+[Playlist Youtube](https://www.youtube.com/watch?v=IzdWe665pe0&list=PLy7wNRwvZynYyvcC1b8VVfk2KacPD2fTu)
 
----
 
-## Compilación y Ejecución
 
-Desde la raíz del proyecto, compilar con:
-
-```bash
-gcc src/*.c -I include -o bin/PlayerStats
-Ejecutar con:
-
-bash
-Copiar
-Editar
-./bin/PlayerStats
-Funciones Principales
-inicProgram(): Inicializa la aplicación, carga datos y prepara estructuras.
-
-cantidad_Jugadores_Archivo(): Cuenta jugadores en archivo binario.
-
-Archivo_A_Jugadores1(): Carga jugadores en array dinámico.
-
-ArchivoEstadisticas_A_Jugadores(): Carga listas enlazadas con estadísticas.
-
-menuPrincipal(): Menú interactivo para operaciones del usuario.
-
-cargarJugador(): Agrega un jugador nuevo.
-
-menu_Estadisticas(): Consulta y modifica estadísticas.
-
-cargarArchivoIndex(): Guarda datos actualizados en archivos binarios.
